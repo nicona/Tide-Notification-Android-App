@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#64C7E0" >
+
+    <Button
+        android:id="@+id/deleteEditBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/buttonshape1"
+        android:textColor="#000000"
+        android:textSize="32sp"
+        android:onClick="deleteInEdit"
+        android:text="Delete" />
+
+    <EditText
+        android:id="@+id/destEditTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_above="@+id/saveEdit"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="150dp"
+        
+        android:hint= "Enter new destination..."
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/nameEditTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_above="@+id/destEditTxt"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="30dp"
+        android:hint= "Enter new name....."
+        android:ems="10" />
+
+    <Button
+        android:id="@+id/saveEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_above="@+id/deleteEditBtn"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/buttonshape1"
+        android:textColor="#000000"
+        android:textSize="32sp"
+        android:onClick="saveChangesBtn"
+        android:text="Save Changes" />
+
+    <TimePicker
+        android:id="@+id/timePicker1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/nameEditTxt"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="23dp" />
+
+</RelativeLayout>

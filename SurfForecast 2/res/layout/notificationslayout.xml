@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id = "@+id/test"
+     >
+     <ListView
+        android:id="@+id/list"
+        android:cacheColorHint="#A7A89E"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:layout_weight="0.70"
+        android:alpha="0.89" >
+    </ListView>
+
+     <Button
+         android:id="@+id/addNewBtn"
+         android:layout_width="match_parent"
+         android:layout_height="100dp"
+         android:layout_weight="0.14"
+         android:background="@drawable/buttonshape1"
+         android:onClick="addNotificationClick"
+         android:shadowColor="#A89B92"
+         android:shadowDx="0"
+         android:shadowDy="0"
+         android:shadowRadius="25"
+         android:alpha="0.75"
+         android:text="Add New"
+         android:textColor="#000000"
+         android:textSize="32sp" />
+
+</LinearLayout>

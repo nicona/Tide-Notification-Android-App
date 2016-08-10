@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#91E0D9"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="94dp"
+        android:drawableLeft="@drawable/sideimage"
+        android:gravity="center"
+        android:paddingBottom="10dp"
+        android:textSize="40sp" />
+    <Button
+        android:id="@+id/deleteBtn"
+        android:layout_width="match_parent"
+        android:textColor="#FFFFFF"
+		android:textSize="30sp"
+        android:layout_height="112dp"
+        android:background="@drawable/buttonshape2"
+        android:focusable="false"
+        android:onClick="deleteInList"
+        android:shadowColor="#DEDEDE"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:text="Delete"
+        android:visibility="invisible" />
+
+</LinearLayout>

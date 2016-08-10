@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<californiastationid>
+<station>
+<name>San Carlos</name>
+<id>TWC0399</id>
+</station>
+<station>
+<name>Isla Guadalupe</name>
+<id>TWC0401</id>
+</station>
+<station>
+<name>Ensenada, Todos Santos Bay</name>
+<id>TWC0403</id>
+</station>
+<station>
+<name>Imperial Beach</name>
+<id>9410120</id>
+</station>
+<station>
+<name>Point Loma</name>
+<id>TWC0405</id>
+</station>
+<station>
+<name>San Diego, Quarantine Station</name>
+<id>9410166</id>
+</station>
+<station>
+<name>SAN DIEGO</name>
+<id>9410170</id>
+</station>
+<station>
+<name>National City, San Diego Bay</name>
+<id>9410152</id>
+</station>
+<station>
+<name>Quivira Basin, Mission Bay</name>
+<id>TWC0413</id>
+</station>
+<station>
+<name>Crown Point, Mission Bay</name>
+<id>9410191</id>
+</station>
+<station>
+<name>LA JOLLA</name>
+<id>9410230</id>
+</station>
+<station>
+<name>San Clemente</name>
+<id>TWC0419</id>
+</station>
+<station>
+<name>NEWPORT BAY ENTRANCE, CORONA DEL MAR</name>
+<id>9410580</id>
+</station>
+<station>
+<name>Balboa Pier, Newport Beach</name>
+<id>9410583</id>
+</station>
+<station>
+<name>Santa Ana River entrance (inside)</name>
+<id>9410599</id>
+</station>
+<station>
+<name>Los Patos (highway bridge)</name>
+<id>TWC0427</id>
+</station>
+<station>
+<name>LONG BEACH, TERMINAL ISLAND</name>
+<id>9410680</id>
+</station>
+<station>
+<name>Long Beach, Inner Harbor</name>
+<id>9410686</id>
+</station>
+<station>
+<name>Cabrillo Beach</name>
+<id>9410650</id>
+</station>
+<station>
+<name>LOS ANGELES</name>
+<id>9410660</id>
+</station>
+<station>
+<name>Los Angeles Harbor, Mormon Island</name>
+<id>TWC0439</id>
+</station>
+<station>
+<name>King Harbor, Santa Monica Bay</name>
+<id>9410738</id>
+</station>
+<station>
+<name>El Segundo, Santa Monica Bay</name>
+<id>9410777</id>
+</station>
+<station>
+<name>SANTA MONICA</name>
+<id>9410840</id>
+</station>
+<station>
+<name>Mugu Lagoon (ocean pier)</name>
+<id>TWC0445</id>
+</station>
+<station>
+<name>Port Hueneme</name>
+<id>9411065</id>
+</station>
+<station>
+<name>Ventura</name>
+<id>9411189</id>
+</station>
+<station>
+<name>Rincon Island, Mussel Shoals</name>
+<id>9411270</id>
+</station>
+<station>
+<name>SANTA BARBARA</name>
+<id>9411340</id>
+</station>
+<station>
+<name>GAVIOTA STATE PARK, PACIFIC OCEAN</name>
+<id>9411399</id>
+</station>
+<station>
+<name>OIL PLATFORM HARVEST</name>
+<id>9411406</id>
+</station>
+<station>
+<name>Wilson Cove, San Clemente Island</name>
+<id>9410032</id>
+</station>
+<station>
+<name>Catalina Harbor, Santa Catalina Island</name>
+<id>9410092</id>
+</station>
+<station>
+<name>Avalon, Santa Catalina Island</name>
+<id>9410079</id>
+</station>
+<station>
+<name>Santa Barbara Island</name>
+<id>TWC0463</id>
+</station>
+<station>
+<name>San Nicolas Island</name>
+<id>9410068</id>
+</station>
+<station>
+<name>Prisoners Harbor, Santa Cruz Island</name>
+<id>9410971</id>
+</station>
+<station>
+<name>Bechers Bay, Santa Rosa Island</name>
+<id>9410962</id>
+</station>
+<station>
+<name>Cuyler Harbor, San Miguel Island</name>
+<id>9410988</id>
+</station>
+<station>
+<name>Point Arguello</name>
+<id>TWC0473</id>
+</station>
+<station>
+<name>PORT SAN LUIS</name>
+<id>9412110</id>
+</station>
+<station>
+<name>San Simeon</name>
+<id>9412553</id>
+</station>
+<station>
+<name>MANSFIELD CONE</name>
+<id>9412802</id>
+</station>
+<station>
+<name>Carmel Cove, Carmel Bay</name>
+<id>9413375</id>
+</station>
+<station>
+<name>MONTEREY</name>
+<id>9413450</id>
+</station>
+<station>
+<name>Moss Landing Gen Fish Pier</name>
+<id>9413617</id>
+</station>
+<station>
+<name>Moss Landing</name>
+<id>9413616</id>
+</station>
+<station>
+<name>Elkhorn Yacht Club</name>
+<id>9413626</id>
+</station>
+<station>
+<name>Elkhorn Slough, Highway 1 Bridge</name>
+<id>9413623</id>
+</station>
+<station>
+<name>Pacific Mariculture Dock</name>
+<id>9413624</id>
+</station>
+<station>
+<name>Elkhorn Slough at Elkhorn</name>
+<id>9413631</id>
+</station>
+<station>
+<name>KIRBY PARK, ELKHORN SLOUGH</name>
+<id>9413651</id>
+</station>
+<station>
+<name>ELKHORN SLOUGH RAILROAD BRIDGE</name>
+<id>9413663</id>
+</station>
+<station>
+<name>Santa Cruz, Monterey Bay</name>
+<id>9413745</id>
+</station>
+<station>
+<name>Ano Nuevo Island</name>
+<id>9413878</id>
+</station>
+<station>
+<name>PILLAR POINT HARBOR</name>
+<id>9414131</id>
+</station>
+<station>
+<name>Southeast Farallon Island</name>
+<id>9414262</id>
+</station>
+<station>
+<name>San Francisco Bar</name>
+<id>TWC0509</id>
+</station>
+<station>
+<name>Ocean Beach, outer coast</name>
+<id>9414275</id>
+</station>
+<station>
+<name>Point Bonita, Bonita Cove</name>
+<id>9414906</id>
+</station>
+<station>
+<name>SAN FRANCISCO</name>
+<id>9414290</id>
+</station>
+<station>
+<name>Alcatraz Island</name>
+<id>9414792</id>
+</station>
+<station>
+<name>San Francisco, North Point, Pier 41</name>
+<id>9414305</id>
+</station>
+<station>
+<name>RINCON POINT, PIER 22 1/2</name>
+<id>9414317</id>
+</station>
+<station>
+<name>Yerba Buena Island</name>
+<id>9414782</id>
+</station>
+<station>
+<name>Oakland, Matson Wharf</name>
+<id>9414779</id>
+</station>
+<station>
+<name>Oakland Middle Harbor</name>
+<id>9414777</id>
+</station>
+<station>
+<name>Oakland Pier</name>
+<id>9414765</id>
+</station>
+<station>
+<name>OAKLAND INNER HARBOR</name>
+<id>9414764</id>
+</station>
+<station>
+<name>Alameda Naval Air Station</name>
+<id>9414767</id>
+</station>
+<station>
+<name>ALAMEDA</name>
+<id>9414750</id>
+</station>
+<station>
+<name>Oakland Berth 67</name>
+<id>9414763</id>
+</station>
+<station>
+<name>PARK STREET BRIDGE</name>
+<id>9414746</id>
+</station>
+<station>
+<name>San Leandro Channel, San Leandro Bay</name>
+<id>9414724</id>
+</station>
+<station>
+<name>Oakland Airport</name>
+<id>9414711</id>
+</station>
+<station>
+<name>Potrero Point</name>
+<id>9414334</id>
+</station>
+<station>
+<name>HUNTERS POINT</name>
+<id>9414358</id>
+</station>
+<station>
+<name>SAN LEANDRO MARINA</name>
+<id>9414688</id>
+</station>
+<station>
+<name>Roberts Landing, 1.3 miles west of</name>
+<id>TWC0547</id>
+</station>
+<station>
+<name>South San Francisco</name>
+<id>9414391</id>
+</station>
+<station>
+<name>Oyster Point Marina</name>
+<id>9414392</id>
+</station>
+<station>
+<name>Point San Bruno</name>
+<id>9414402</id>
+</station>
+<station>
+<name>Seaplane Harbor</name>
+<id>9414413</id>
+</station>
+<station>
+<name>Coyote Point Marina</name>
+<id>9414449</id>
+</station>
+<station>
+<name>SAN MATEO BRIDGE</name>
+<id>9414458</id>
+</station>
+<station>
+<name>San Mateo Bridge (east end)</name>
+<id>9414637</id>
+</station>
+<station>
+<name>Alameda Creek</name>
+<id>9414632</id>
+</station>
+<station>
+<name>Coyote Hills Slough entrance</name>
+<id>9414621</id>
+</station>
+<station>
+<name>Bay Slough, west end</name>
+<id>9414483</id>
+</station>
+<station>
+<name>Bay Slough, east end</name>
+<id>9414486</id>
+</station>
+<station>
+<name>Redwood Creek Marker 8</name>
+<id>9414501</id>
+</station>
+<station>
+<name>Redwood Creek entrance (inside)</name>
+<id>TWC0573</id>
+</station>
+<station>
+<name>South Bay Wreck</name>
+<id>9414609</id>
+</station>
+<station>
+<name>Corkscrew Slough</name>
+<id>9414505</id>
+</station>
+<station>
+<name>REDWOOD CITY</name>
+<id>9414523</id>
+</station>
+<station>
+<name>West Point Slough</name>
+<id>9414507</id>
+</station>
+<station>
+<name>Smith Slough</name>
+<id>9414511</id>
+</station>
+<station>
+<name>Newark Slough</name>
+<id>9414506</id>
+</station>
+<station>
+<name>DUMBARTON BRIDGE</name>
+<id>9414509</id>
+</station>
+<station>
+<name>Granite Rock, Redwood Creek</name>
+<id>9414513</id>
+</station>
+<station>
+<name>Palo Alto Yacht Harbor</name>
+<id>9414525</id>
+</station>
+<station>
+<name>Mowry Slough</name>
+<id>9414519</id>
+</station>
+<station>
+<name>Calaveras Point, west of</name>
+<id>9414539</id>
+</station>
+<station>
+<name>Upper Guadalupe Slough</name>
+<id>9414549</id>
+</station>
+<station>
+<name>COYOTE CREEK</name>
+<id>9414575</id>
+</station>
+<station>
+<name>Gold Street Bridge, Alviso Slough</name>
+<id>9414551</id>
+</station>
+<station>
+<name>Coyote Creek, Tributary no.1</name>
+<id>9414561</id>
+</station>
+<station>
+<name>Sausalito</name>
+<id>9414806</id>
+</station>
+<station>
+<name>Sausalito, Corps of Engineers Dock</name>
+<id>9414819</id>
+</station>
+<station>
+<name>Angel Island (west side)</name>
+<id>9414817</id>
+</station>
+<station>
+<name>Angel Island, East Garrison</name>
+<id>9414818</id>
+</station>
+<station>
+<name>Point Chauncey</name>
+<id>9414837</id>
+</station>
+<station>
+<name>Berkeley</name>
+<id>9414816</id>
+</station>
+<station>
+<name>Point Isabel</name>
+<id>9414843</id>
+</station>
+<station>
+<name>Richmond Inner Harbor</name>
+<id>9414849</id>
+</station>
+<station>
+<name>RICHMOND</name>
+<id>9414863</id>
+</station>
+<station>
+<name>Point Orient</name>
+<id>9414881</id>
+</station>
+<station>
+<name>Corte Madera Creek</name>
+<id>9414874</id>
+</station>
+<station>
+<name>Point San Quentin</name>
+<id>9414873</id>
+</station>
+<station>
+<name>MARE ISLAND</name>
+<id>9415218</id>
+</station>
+<station>
+<name>Vallejo, Mare Island Strait</name>
+<id>9415165</id>
+</station>
+<station>
+<name>Edgerley Island, Napa River</name>
+<id>9415415</id>
+</station>
+<station>
+<name>Brazos Drawbridge, Napa River</name>
+<id>9415446</id>
+</station>
+<station>
+<name>Napa, Napa River</name>
+<id>9415623</id>
+</station>
+<station>
+<name>Selby</name>
+<id>9415142</id>
+</station>
+<station>
+<name>CROCKETT</name>
+<id>9415143</id>
+</station>
+<station>
+<name>Benicia</name>
+<id>9415111</id>
+</station>
+<station>
+<name>MARTINEZ-AMORCO PIER</name>
+<id>9415102</id>
+</station>
+<station>
+<name>SUISUN SLOUGH ENTRANCE</name>
+<id>9415265</id>
+</station>
+<station>
+<name>Pierce Harbor, Goodyear Slough</name>
+<id>9415266</id>
+</station>
+<station>
+<name>Joice Island, Suisun Slough</name>
+<id>9415379</id>
+</station>
+<station>
+<name>Suisun City, Suisun Slough</name>
+<id>9415498</id>
+</station>
+<station>
+<name>PORT CHICAGO</name>
+<id>9415144</id>
+</station>
+<station>
+<name>Montezuma Slough Bridge</name>
+<id>9415402</id>
+</station>
+<station>
+<name>BRADMOOR ISLAND</name>
+<id>9414811</id>
+</station>
+<station>
+<name>Meins Landing, Montezuma Slough</name>
+<id>9415307</id>
+</station>
+<station>
+<name>Montezuma Slough</name>
+<id>9415205</id>
+</station>
+<station>
+<name>Point Buckler</name>
+<id>9415227</id>
+</station>
+<station>
+<name>MALLARD ISLAND FERRY WHARF</name>
+<id>9415112</id>
+</station>
+<station>
+<name>Pittsburg, New York Slough</name>
+<id>9415096</id>
+</station>
+<station>
+<name>ANTIOCH</name>
+<id>9415064</id>
+</station>
+<station>
+<name>Threemile Slough entrance</name>
+<id>9415193</id>
+</station>
+<station>
+<name>Prisoners Point</name>
+<id>9415149</id>
+</station>
+<station>
+<name>Wards Island, Little Connection Slough</name>
+<id>9415105</id>
+</station>
+<station>
+<name>Blackslough Landing</name>
+<id>9415021</id>
+</station>
+<station>
+<name>Stockton</name>
+<id>9414883</id>
+</station>
+<station>
+<name>Georgiana Slough entrance</name>
+<id>9415287</id>
+</station>
+<station>
+<name>Terminous, South Fork</name>
+<id>9415257</id>
+</station>
+<station>
+<name>New Hope Bridge</name>
+<id>9415478</id>
+</station>
+<station>
+<name>Bishop Cut, Disappointment Slough</name>
+<id>9415117</id>
+</station>
+<station>
+<name>False River</name>
+<id>9415145</id>
+</station>
+<station>
+<name>Dutch Slough</name>
+<id>9415053</id>
+</station>
+<station>
+<name>Irish Landing, Sand Mound Slough</name>
+<id>9415095</id>
+</station>
+<station>
+<name>Orwood, Old River</name>
+<id>9414868</id>
+</station>
+<station>
+<name>Holt, Whiskey Slough</name>
+<id>9414866</id>
+</station>
+<station>
+<name>Borden Highway Bridge, Old River</name>
+<id>9414836</id>
+</station>
+<station>
+<name>Borden Highway Bridge, Middle River</name>
+<id>9414835</id>
+</station>
+<station>
+<name>Borden Highway Bridge, San Joaquin River</name>
+<id>9414367</id>
+</station>
+<station>
+<name>Grant Line Canal (drawbridge)</name>
+<id>9414785</id>
+</station>
+<station>
+<name>Collinsville</name>
+<id>9415176</id>
+</station>
+<station>
+<name>Threemile Slough</name>
+<id>9415236</id>
+</station>
+<station>
+<name>RIO VISTA</name>
+<id>9415316</id>
+</station>
+<station>
+<name>Steamboat Slough, Snug Harbor Marina</name>
+<id>9415414</id>
+</station>
+<station>
+<name>Snodgrass Slough</name>
+<id>9415565</id>
+</station>
+<station>
+<name>Clarksburg</name>
+<id>9415846</id>
+</station>
+<station>
+<name>Sacramento</name>
+<id>9416174</id>
+</station>
+<station>
+<name>Point San Pedro</name>
+<id>9415009</id>
+</station>
+<station>
+<name>PINOLE POINT, SAN PABLO BAY</name>
+<id>9415056</id>
+</station>
+<station>
+<name>Hercules, Refugio Landing</name>
+<id>9415074</id>
+</station>
+<station>
+<name>Petaluma River entrance</name>
+<id>9415252</id>
+</station>
+<station>
+<name>Lakeville, Petaluma River</name>
+<id>TWC0649</id>
+</station>
+<station>
+<name>Upper drawbridge, Petaluma River</name>
+<id>9415584</id>
+</station>
+<station>
+<name>Gallinas, Gallinas Creek</name>
+<id>9415052</id>
+</station>
+<station>
+<name>Hog Island, San Antonio Creek</name>
+<id>9415344</id>
+</station>
+<station>
+<name>SONOMA CREEK ENTRANCE</name>
+<id>9415338</id>
+</station>
+<station>
+<name>Wingo, Sonoma Creek</name>
+<id>9415447</id>
+</station>
+<station>
+<name>BOLINAS, BOLINAS LAGOON</name>
+<id>9414958</id>
+</station>
+<station>
+<name>POINT REYES</name>
+<id>9415020</id>
+</station>
+<station>
+<name>Tomales Bay entrance</name>
+<id>9415469</id>
+</station>
+<station>
+<name>Blakes Landing, Tomales Bay</name>
+<id>9415396</id>
+</station>
+<station>
+<name>Marshall, Tomales Bay</name>
+<id>9415339</id>
+</station>
+<station>
+<name>Reynolds, Tomales Bay</name>
+<id>9415320</id>
+</station>
+<station>
+<name>Inverness, Tomales Bay</name>
+<id>9415228</id>
+</station>
+<station>
+<name>Bodega Harbor entrance</name>
+<id>9415625</id>
+</station>
+<station>
+<name>Fort Ross</name>
+<id>9416024</id>
+</station>
+<station>
+<name>GREEN COVE</name>
+<id>9416409</id>
+</station>
+<station>
+<name>ARENA COVE</name>
+<id>9416841</id>
+</station>
+<station>
+<name>Point Arena</name>
+<id>TWC0771</id>
+</station>
+<station>
+<name>NOYO HARBOR</name>
+<id>9417426</id>
+</station>
+<station>
+<name>Mendocino, Mendocino Bay</name>
+<id>TWC0777</id>
+</station>
+<station>
+<name>Westport</name>
+<id>9417624</id>
+</station>
+<station>
+<name>Shelter Cove</name>
+<id>9418024</id>
+</station>
+<station>
+<name>NORTH SPIT</name>
+<id>9418767</id>
+</station>
+<station>
+<name>FIELDS LANDING</name>
+<id>9418723</id>
+</station>
+<station>
+<name>Hookton Slough</name>
+<id>9418686</id>
+</station>
+<station>
+<name>Elk River Railroad Bridge</name>
+<id>9418757</id>
+</station>
+<station>
+<name>Bucksport</name>
+<id>9418778</id>
+</station>
+<station>
+<name>Eureka</name>
+<id>9418801</id>
+</station>
+<station>
+<name>Eureka Slough Bridge</name>
+<id>9418802</id>
+</station>
+<station>
+<name>SAMOA, HUMBOLDT BAY</name>
+<id>9418817</id>
+</station>
+<station>
+<name>Arcata Wharf</name>
+<id>9418851</id>
+</station>
+<station>
+<name>Mad River Slough, Arcata Bay</name>
+<id>9418865</id>
+</station>
+<station>
+<name>Trinidad Harbor</name>
+<id>9419059</id>
+</station>
+<station>
+<name>CRESCENT CITY</name>
+<id>9419750</id>
+</station>
+<station>
+<name>PYRAMID POINT</name>
+<id>9419945</id>
+</station>
+</californiastationid>
